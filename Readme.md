@@ -15,3 +15,7 @@ Pcb Back
 
 Diagram Xtal Tester
 ![Photo 1](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Diagram-Xtal-Tester.JPG)
+
+Gerbers are here:
+
+https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Gerbers-%20Xtal.zip

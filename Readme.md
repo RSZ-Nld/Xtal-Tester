@@ -14,5 +14,4 @@ Pcb Back
 
 
 Diagram Xtal Tester
-![]([https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Diagram-Xtal-Tester.JPG)
-
+![Photo 1]([https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Diagram-Xtal-Tester.JPG)

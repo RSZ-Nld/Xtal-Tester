@@ -29,15 +29,9 @@ Front:
 
 
 
-Org from JF3HZB
-![Photo 2]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Org.jpg)
-Front Pcb:
-![Photo 3]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Front-V1.1.jpg)
-Back Pcb: 
-![Photo 6]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Back-V1.1.jpg)
 
-Diagram V1.1
-![Photo 12](https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Diagram-V1.1.JPG)
+Diagram Xtal Tester
+![Photo 12]([https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Diagram-Xtal-Tester.JPG)
 
 
 

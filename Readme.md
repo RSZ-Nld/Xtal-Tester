@@ -5,7 +5,7 @@ Made a own pcb to test Xtals
 Pcb Front
 ![Photo 13](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Front.JPG)
 Pcb Back
-![Photo 10]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Front--V1.1.jpg)
+![Photo 10](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Back.JPG)
 
 
 

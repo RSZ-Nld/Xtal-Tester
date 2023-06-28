@@ -18,4 +18,4 @@ Diagram Xtal Tester
 
 Gerbers are here:
 
-https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Gerbers-%20Xtal.zip
+https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Tester-Xtal_V1.1.zip

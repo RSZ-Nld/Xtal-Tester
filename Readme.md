@@ -13,9 +13,12 @@ Pcb Back HA7210
 ![Photo 16](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Back-HA7210.JPG)
 
 V1.2 Double Xtal tester
+
 Pcb Front V1.2
 ![Photo 11](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Front-V1.2.JPG)
+
 Pcb Back V1.2
+
 ![Photo 14](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Back-V1.2.JPG)
 
 

@@ -12,9 +12,10 @@ Pcb Front HA7210
 Pcb Back HA7210
 ![Photo 16](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Back-HA7210.JPG)
 
-V1.2 Double Xtal tester
+Double Xtal tester
 
 Pcb Front V1.2
+
 ![Photo 11](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Front-V1.2.JPG)
 
 Pcb Back V1.2
@@ -29,9 +30,11 @@ Pcb Back V1.2
 
 
 Diagram Xtal Tester
+
 ![Photo 1](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Diagram-Xtal-Tester.JPG)
 
 Diagram HA7210 Xtal tester
+
 ![Photo 2](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Diagram-HA7210.JPG)
 
 Gerbers are here V1.1 :

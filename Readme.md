@@ -35,6 +35,10 @@ Gerbers are here V1.1 :
 
 https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Tester-Xtal_V1.1.zip
 
+Gerbers for HA7210 stand alone
+
+https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Gerbers%20HA7210.zip
+
 Gerbers V1.2 (Double Xtal tester)
 
 https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Gerbers-V1.2.zip

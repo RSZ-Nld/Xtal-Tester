@@ -1,4 +1,4 @@
-Made a own pcb to test Xtals
+Made  pcb's to test Xtals, 3 types:
 
 
 ### Photos

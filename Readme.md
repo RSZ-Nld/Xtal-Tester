@@ -56,3 +56,7 @@ https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Gerbers%20HA7210.zip
 Gerbers V1.2 (Double Xtal tester)
 
 https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Gerbers-V1.2.zip
+
+Gerbers TH Single Xtal Tester
+
+https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Gerbers-TH.zip

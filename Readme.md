@@ -22,6 +22,10 @@ Pcb Back V1.2
 
 ![Photo 14](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Back-V1.2.JPG)
 
+TH Single Xtal Tester
+
+![Photo 15](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Front-TH.JPG)
+
 
 
 

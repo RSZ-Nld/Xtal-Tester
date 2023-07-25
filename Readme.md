@@ -2,6 +2,8 @@ Made  pcb's to test Xtals, 4 types:
 
 Frequency Counter (see https://github.com/RSZ-Nld/Freq-Counter-Led)   with my Xtal tester.
 
+![Photo 18](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Freq-counter-Xtal-tester.jpg)
+
 
 ### Photos
 Pcb Front

@@ -10,6 +10,10 @@ And 36MHz Xtal
 
 ![Photo 19](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/20230725_113514.jpg)
 
+And the TH xtal tester with Freq counter with 20Mhz xtal
+
+![Photo 16](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/TH-Xtal%20tester.jpg)
+
 ### Photos
 Pcb Front
 ![Photo 13](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Front.JPG)

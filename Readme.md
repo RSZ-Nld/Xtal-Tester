@@ -7,6 +7,9 @@ Frequency Counter see ( https://github.com/RSZ-Nld/Freq-Counter-Led )   with my 
 
 And 36MHz Xtal
 
+Xtal-Tester/.jpg
+
+![Photo 198](https://github.com/RSZ-Nld/XtalTester/blob/main/20230725_113514)
 
 
 ### Photos

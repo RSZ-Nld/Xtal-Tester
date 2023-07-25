@@ -1,6 +1,6 @@
 Made  pcb's to test Xtals, 4 types:
 
-Frequency Counter (see https://github.com/RSZ-Nld/Freq-Counter-Led)   with my Xtal tester.
+Frequency Counter (see https://github.com/RSZ-Nld/Freq-Counter-Led)   with my Xtal tester, test 32,768kHz Xtal.
 
 ![Photo 18](https://github.com/RSZ-Nld/Xtal-Tester/blob/main/Freq-counter-Xtal-tester.jpg)
 
